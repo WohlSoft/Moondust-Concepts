@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="36"
-   inkscape:export-xdpi="36"
-   inkscape:export-filename="V:\engine.wohlnet.ru\docs\images\logos\cat_192.png"
+   inkscape:export-ydpi="34.059509"
+   inkscape:export-xdpi="34.059509"
+   inkscape:export-filename="/home/vitaly/_git_repos/Moondust-Concepts/General/WohlSoft-250.png"
    style="enable-background:new"
    sodipodi:docname="WohlSoft_logo.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    version="1.1"
    id="svg2"
    height="704.64899"
@@ -639,15 +639,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6525"
-     inkscape:cx="377.38784"
+     inkscape:cx="109.18861"
      inkscape:cy="311.35809"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="947"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -668,7 +668,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
